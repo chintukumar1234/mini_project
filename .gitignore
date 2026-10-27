@@ -1,0 +1,9 @@
+/data/
+/venv/
+/node_modules/
+/best_model.pth
+/last_checkpoint.pth
+*.tar
+*.zip
+__pycache__/
+*.py[cod]
